@@ -4,7 +4,7 @@ This repository contains solutions to HackerRank archives.
 Solutions to the [HackerRank archives](https://www.hackerrank.com/).
 
 [![Kattis](./hackerRankLogo.jpg)
-](https://open.kattis.com/)
+](https://www.hackerrank.com/)
 
 ## Problems
 | Task| Name| Solution | Status |
